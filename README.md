@@ -1,2 +1,2 @@
 # Innovation Factory
- Innovation factory hackathon solution
+ Here rests our code for the innovation factory challenge B.
