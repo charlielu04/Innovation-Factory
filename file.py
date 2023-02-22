@@ -1,5 +1,4 @@
-print('testing')
-print('test2')
-print('test5')
-print('zach')
-print('cholechi')
+import torch
+import torchvision
+import matplotlib.pyplot as plt
+import numpy as np
