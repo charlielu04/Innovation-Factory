@@ -1,0 +1,12 @@
+names:
+- waldo
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: wally-dset-v2
+  url: https://universe.roboflow.com/kurtis-brandt/wally-dset-v2/dataset/10
+  version: 10
+  workspace: kurtis-brandt
+test: test/images
+train: train/images
+val: valid/images
